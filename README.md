@@ -5,7 +5,7 @@ The code is collected in the RelationModel folder, supporting use on the latest 
 
 
 * **Three** evolutionary algorithms based on the relation model have been implemented so far.
-* In the RelationModel folder, the related functions are only initially implemented. The plan is to use the same code structure and function names as the Python version in future updates, to facilitate maintenance and updating. ❗️
+* In the RelationModel folder, the related functions are only initially implemented. The plan is to use the same code structure and function names as the [Python version](https://github.com/hhyqhh/Relation) in future updates, to facilitate maintenance and updating. ❗️
 * The implementation of other related algorithms is still in progress, so stay tuned. 🚗
 
 
